@@ -54,7 +54,7 @@
     "optimize-autoloader": true
   },
   "require": {
-    "php": ">=5.5",
+    "php": ">=7.0",
     "ext-curl": "*",
     "ext-json": "*",
     "ext-xml": "*",
